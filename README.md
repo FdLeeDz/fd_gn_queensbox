@@ -6,7 +6,7 @@
 Nom : Boxing Club
 Présentation : https://youtu.be/9BMnr3uknew
 Pour l'installer : 
-1 - Mettre gn_queensbox dans votre dossier FiveM [resources]
+1 - Mettre 'gn_queensbox' dans votre dossier FiveM "resources"
 2 - start 'gn_queensbox' dans votre **server.cfg**.
 
 ##########################################################
